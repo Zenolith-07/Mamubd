@@ -12,7 +12,7 @@ export function SpecialNote({ onComplete }: SpecialNoteProps) {
   const [isComplete, setIsComplete] = useState(false);
 
   // Your heartfelt message - customize this
-  const message = `Dear Beautiful Soul,
+  const message = `Dear Mamu,
 
 On this special day, I want you to know how truly extraordinary you are. Your presence in this world brings light to every corner it touches, and your smile has the power to brighten even the darkest days.
 

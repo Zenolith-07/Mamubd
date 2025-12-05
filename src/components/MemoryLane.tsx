@@ -6,7 +6,7 @@ import momSpecial from '../assets/mom-special.jpg';
 import papamamu from '../assets/PapaMamu.jpg';
 import memamu from '../assets/Memamu.jpg';
 import masisters from '../assets/Masisters.jpg';
-import wholefamily from '../assets/WholeFam.jpg';
+import wholefamily from '../assets/Wholefam.jpg';
 interface Memory {
   id: number;
   image: string;

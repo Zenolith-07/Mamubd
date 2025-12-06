@@ -14,15 +14,15 @@ export function SpecialNote({ onComplete }: SpecialNoteProps) {
   // Your heartfelt message - customize this
   const message = `Dear Mamu,
 
-On this special day, I want you to know how truly extraordinary you are. Your presence in this world brings light to every corner it touches, and your smile has the power to brighten even the darkest days.
+On this special day, I want you to know how truly amazing and extraordinary you are. Your presence in this world brings light to every corner it touches, and your smile has the power to brighten even the darkest days.
 
-You are strong, resilient, and incredibly inspiring. The way you navigate life with grace and kindness reminds everyone around you what it means to be genuinely good-hearted.
+You are strong, resilient, and incredibly inspiring. The way you navigate life with grace and kindness reminds everyone around you what it means to be genuinely good-hearted. You have and have been inspiring me to be a better person every single day.
 
-Thank you for being exactly who you are – authentic, caring, and absolutely wonderful. May this birthday mark the beginning of your best year yet, filled with dreams realized, adventures embraced, and endless moments of joy.
+Thank you for being exactly who you are – authentic, caring, and absolutely wonderful and the best mom in the world. May this birthday mark the beginning of your best year yet, filled with dreams realized, adventures embraced, and endless moments of joy.
 
-Never forget that you are loved, appreciated, and celebrated not just today, but every single day.
+Never forget that you are loved, appreciated, and celebrated not just today, but every single day. I will forever love you and appreciate you for whatever you have done for me and will continue to do so.
 
-Here's to you, to the memories we've shared, and to all the beautiful moments yet to come.
+Here's to you, to the memories we've shared, and to all the beautiful moments yet to come. I wish you the best birthday and best years that's coming, I hope your life is always filled with joy and never ending love.
 
 Happy Birthday Mamu! 🎂💖
 
